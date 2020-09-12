@@ -4,7 +4,7 @@
     "build": "webpack -p"
   },
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "quagga": "^0.12.1"
   },
   "devDependencies": {
